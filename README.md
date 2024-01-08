@@ -26,4 +26,4 @@ As a non-profit organization, we rely on your support. Learn how you can [contri
 
 We're excited to have you join us in pushing the boundaries of open source software 🌐. Together, we can build something amazing!
 
-[Follow us on GitHub]([your-github-link](https://github.com/The-Open-Source-Project-TOSP)) | [Twitter]([your-twitter-link](https://twitter.com/OpenSource_TOSP)https://twitter.com/OpenSource_TOSP) | [Discord](https://discord.com/invite/QMzvmuSh2v) [Website IN PROGRESS 🛠️]()
+[Follow us on GitHub](https://github.com/The-Open-Source-Project-TOSP) | [Twitter](https://twitter.com/OpenSource_TOSP) | [Discord](https://discord.com/invite/QMzvmuSh2v) | [Website IN PROGRESS 🛠️]()
